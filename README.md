@@ -1,5 +1,5 @@
 # Cricket-Fantasy-League
-PyQt5 based GUI with sqlite3 database
+PyQt5 based GUI with sqlite3 database.
 
 ### Demo
 https://youtu.be/7NW9BJaH5-8
