@@ -1,9 +1,10 @@
 # Cricket-Fantasy-League
 PyQt5 based GUI with sqlite3 database
 
-### Demo: https://youtu.be/7NW9BJaH5-8
+### Demo
+https://youtu.be/7NW9BJaH5-8
 
-### Dependencies:
+### Dependencies
 * PyQt5
 * sqlite3
 
